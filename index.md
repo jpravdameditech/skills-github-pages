@@ -6,6 +6,6 @@ title: Welcome to jpravdaMEDITECH's blog
 ###Markdown a bit more
 --Bold--
 -Italicised-
-Other
+Other item in this here.
 
 
